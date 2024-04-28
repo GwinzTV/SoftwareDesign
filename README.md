@@ -23,7 +23,7 @@ Use case analysis outlines the various ways in which users interact with our sys
 
 ## Sequence Diagrams
 
-Sequence diagrams visualize the interactions between different components or actors within the system over time. They provide a chronological representation of how messages are passed between objects and the order in which they occur. Our repository includes comprehensive sequence diagrams that offer a deep understanding of the system's behavior under different scenarios.
+Sequence diagrams visualise the interactions between different components or actors within the system over time. They provide a chronological representation of how messages are passed between objects and the order in which they occur. Our repository includes comprehensive sequence diagrams that offer a deep understanding of the system's behavior under different scenarios.
 
 - **Component Interaction**: Illustrate how different components or actors collaborate to fulfill a particular use case.
 - **Message Flow**: Show the flow of messages between components over time.
@@ -31,7 +31,7 @@ Sequence diagrams visualize the interactions between different components or act
 
 ## Contributing
 
-We welcome contributions to enhance our use case analysis and sequence diagrams. Whether you want to propose a new use case, improve an existing diagram, or suggest enhancements, your contributions are valuable. To contribute, please follow these steps:
+I welcome contributions to enhance our use case analysis and sequence diagrams. Whether you want to propose a new use case, improve an existing diagram, or suggest enhancements, your contributions are valuable. To contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
